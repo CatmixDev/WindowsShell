@@ -1,6 +1,7 @@
 # WindowsShell
 WindowsShell — A lightweight, Linux-like custom command-line interface for Windows built with C++ and Windows API.
 
+<img width="957" height="555" alt="Снимок экрана 2026-10-18 133531" src="https://github.com/user-attachments/assets/bfa9e5d4-70fd-45e2-828c-d75ec442316b" />
 
 
 # WindowsShell
@@ -18,7 +19,7 @@ A lightweight, custom command-line interface for Windows written in C++ and Win3
 
 ## Compilation
 
-### Using Visual Studio<img width="957" height="555" alt="Снимок экрана 2026-10-18 133531" src="https://github.com/user-attachments/assets/d0fd6765-4dce-461a-9f2f-ec171e8a7907" />
+### Using Visual Studio
 
 1. Open `WindowsShell.vcxproj` in Visual Studio.
 2. Set build to Release and target to x64.
