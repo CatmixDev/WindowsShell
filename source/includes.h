@@ -1,0 +1,13 @@
+#pragma once
+#include <iostream>
+#include <filesystem>
+#include <fstream>
+#include <chrono>
+#include <string>
+#include <vector>
+#include <windows.h>
+#include <lmcons.h> 
+#include <thread>
+#include <conio.h> 
+#include <ctime>
+#include <cstdlib>
