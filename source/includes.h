@@ -11,3 +11,5 @@
 #include <conio.h> 
 #include <ctime>
 #include <cstdlib>
+#include <winreg.h>
+#define WIN32_LEAN_AND_MEAN
