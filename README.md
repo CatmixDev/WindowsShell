@@ -8,7 +8,13 @@ WindowsShell — A lightweight, Linux-like custom command-line interface for Win
 
 A lightweight, custom command-line interface for Windows written in C++ and Win32 API. It brings a basic Linux-like CLI experience natively to Windows, featuring file utilities, system diagnostics, and a micro text editor.
 
-## Features
+New Features
+* execute python file
+* ping
+* figlet
+* echo
+
+## basic Features
 
 * **File System:** Custom implementations of `ls`, `pwd`, `touch`, and `cat`.
 * **NEO Text Editor:** Micro editor with hotkeys (`Ctrl+S` to save, `Esc` to exit).
